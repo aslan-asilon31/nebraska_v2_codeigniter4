@@ -8,7 +8,7 @@ new update on branch development :
 <br>
 [Nebraska v2 Codeigniter 4](https://github.com/aslan-asilon31/nebraska_v2_codeigniter4)
 <br>
-[Nebraska v2 Codeigniter Yii2](https://github.com/aslan-asilon31/nebraska_v2_yii2)
+[Nebraska v2 Yii2](https://github.com/aslan-asilon31/nebraska_v2_yii2)
 <br>
 [Nebraska v2 Python Django](https://github.com/aslan-asilon33/nebraska_v2_django.git)
 <br>
@@ -16,10 +16,11 @@ new update on branch development :
 <br>
 [Nebraska v2 NuxtJS](https://github.com/aslan-asilon34/nebraska_v2_nuxtjs.git)
 <br>
-[Nebraska v2 NextJS](https://github.com/aslan-asilon34/nebraska_v2_nuxtjs.git)
+[Nebraska v2 NextJS](https://github.com/aslan-asilon34/nebraska_v2_nextjs.git)
 <br>
 [Nebraska v2 VueJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
 <br>
 [Nebraska v2 ReactJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
 <br>
-![Nebraska v2 - canva -purple](https://github.com/aslan-asilon31/nebraska_v2_laravel11/assets/116990574/410548e7-6326-49a0-bb57-c47cc2ee69ad)
+![codeigniter4](https://github.com/aslan-asilon31/nebraska_v2_codeigniter4/assets/116990574/f9e01fdf-ea8a-4c28-b998-783d4a57040b)
+
